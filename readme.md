@@ -4,7 +4,7 @@ Free download and open source code project , you can download and change codding
 
 develope using reactjs feat bootstrap 🤘
 
-👉 test drive demo before download [update](update)
+👉 test drive demo before download [https://sipresto.vercel.app/](https://sipresto.vercel.app/)
 
 Premium themes unique version demo [https://vpos.vercel.app/](https://vpos.vercel.app/) 👈
 
@@ -64,7 +64,7 @@ How to install ??
 
 ----------------------------------------------------
 
-👉 test drive demo before download [update](update)
+👉 test drive demo before download [https://sipresto.vercel.app/](https://sipresto.vercel.app/)
 
 Premium themes unique version demo [https://vpos.vercel.app/](https://vpos.vercel.app/) 👈
 
