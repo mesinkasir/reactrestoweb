@@ -2,7 +2,7 @@
 
 Free download and open source code project , you can download and change codding and article with your own.
 
-develope using reactjs feat bootstrap 🤘
+develope using reactjs feat bootstrap  🤘
 
 👉 test drive demo before download [https://sipresto.vercel.app/](https://sipresto.vercel.app/)
 
