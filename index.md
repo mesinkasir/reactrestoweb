@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+# React SIP restaurant website template themes
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/reactrestoweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Free download and open source code project , you can download and change codding and article with your own.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+develope using reactjs feat bootstrap  🤘
 
-### Markdown
+👉 test drive demo before download [https://sipresto.vercel.app/](https://sipresto.vercel.app/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Premium themes unique version demo [https://vpos.vercel.app/](https://vpos.vercel.app/) 👈
 
-```markdown
-Syntax highlighted code block
+🤙 Demo video : [play here](https://youtu.be/SEKT0YZGswc)
 
-# Header 1
-## Header 2
-### Header 3
+Documentation and installation 💯
 
-- Bulleted
-- List
+[https://www.hockeycomputindo.com/2021/02/restoran-website-template-themes-react.html](https://www.hockeycomputindo.com/2021/02/restoran-website-template-themes-react.html)
 
-1. Numbered
-2. List
+-------------------------------------------
 
-**Bold** and _Italic_ and `Code` text
+Menu web apps :
++ Home page
++ Features page or blog content article
++ Price page
++ Demo Page
++ Gallery Page
++ Contact page
 
-[Link](url) and ![Image](src)
-```
+-------------------------------------------
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Display React Sip Resto Web Apps
 
-### Jekyll Themes
+![free download react webiste template themes sip resto restaurant web app](https://1.bp.blogspot.com/-72KEh0k0o2M/YDJsiSczySI/AAAAAAAANCI/VnLyAzw6UqEJ0xFcyCm7TnZv-CkLFCIkQCLcBGAsYHQ/s1349/react%2Bwebsite%2Brestoran%2Btemplate%2Bthemes%2Bfree%2Bdownload%2Bsource%2Bcode%2Bfull%2B%25281%2529.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/reactrestoweb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Home page
 
-### Support or Contact
+![free download react webiste template themes sip resto restaurant web app](https://1.bp.blogspot.com/-yPEgl15sezk/YDJso6zSusI/AAAAAAAANCY/Nizver3iLfgnujAvLW6pErOzvl69ybXLgCLcBGAsYHQ/s1412/react%2Bwebsite%2Brestoran%2Btemplate%2Bthemes%2Bfree%2Bdownload%2Bsource%2Bcode%2Bfull%2B%25286%2529.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Blog article page
+
+![free download react webiste template themes sip resto restaurant web app](https://1.bp.blogspot.com/-k7SWmqsc_4E/YDJsoTQmX3I/AAAAAAAANCQ/iRD-AVFedJU_rQWWLAlk3rbWpzeuO-6kgCLcBGAsYHQ/s1430/react%2Bwebsite%2Brestoran%2Btemplate%2Bthemes%2Bfree%2Bdownload%2Bsource%2Bcode%2Bfull%2B%25284%2529.png)
+
+Content Page
+
+![free download react webiste template themes sip resto restaurant web app](https://1.bp.blogspot.com/-eBs8Jv-BDQ8/YDJso38hH3I/AAAAAAAANCU/rReYx5XHR8s0JJHGBpyeZ7RDeCUqNVaRACLcBGAsYHQ/s1349/react%2Bwebsite%2Brestoran%2Btemplate%2Bthemes%2Bfree%2Bdownload%2Bsource%2Bcode%2Bfull%2B%25285%2529.png)
+
+Another content page
+
+![free download react webiste template themes sip resto restaurant web app](https://1.bp.blogspot.com/-3UfAd3RBYnk/YDJsiPG_EHI/AAAAAAAANCE/xgrBjC5NDuMUsm97Ov3_K8RUYfG5WxKOgCLcBGAsYHQ/s1349/react%2Bwebsite%2Brestoran%2Btemplate%2Bthemes%2Bfree%2Bdownload%2Bsource%2Bcode%2Bfull%2B%25283%2529.png)
+
+Demo page video
+
+![free download react webiste template themes sip resto restaurant web app](https://1.bp.blogspot.com/-74Rfka1LJK8/YDJsi_-O3WI/AAAAAAAANCM/PumFSJ_W7_AQJyXuo6yeF3xk7QqU4tpdACLcBGAsYHQ/s1349/react%2Bwebsite%2Brestoran%2Btemplate%2Bthemes%2Bfree%2Bdownload%2Bsource%2Bcode%2Bfull%2B%25282%2529.png)
+
+Gallery Page Area
+
+---------------------------------------------------
+
+How to install ??
++ need node npm 
++ react cli
++ this source code
++ npm install
++ npm start
++ localhost:3000
+
+----------------------------------------------------
+
+👉 test drive demo before download [https://sipresto.vercel.app/](https://sipresto.vercel.app/)
+
+Premium themes unique version demo [https://vpos.vercel.app/](https://vpos.vercel.app/) 👈
+
+🤙 Demo video : [play here](https://youtu.be/SEKT0YZGswc)
+
+Documentation and installation 💯
+
+[https://www.hockeycomputindo.com/2021/02/restoran-website-template-themes-react.html](https://www.hockeycomputindo.com/2021/02/restoran-website-template-themes-react.html)
+
+
+----------------------------------------------------
+
+### Buy me a coffee :hearts: ✌🏻
+
+:coffee: :coffee: :coffee: 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
